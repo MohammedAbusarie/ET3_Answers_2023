@@ -14,9 +14,6 @@ destination_path = os.path.join( currpath , datasetFolderName )
 if not os.path.exists(destination_path):
     os.makedirs(destination_path)
 
-#for image in listOfImages:
-#    shutil.copy(str(image), destination_path) #copy each image to a certain folder
-
 # Create an empty DataFrame with the specified columns
 columns = ['Image', 'Image Size', 'Image Modification Date']
 dataset = pd.DataFrame(columns=columns)
