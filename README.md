@@ -27,7 +27,7 @@ This script is designed to organize image files, gather their information, and c
 2. Open a terminal or command prompt and navigate to the directory with the script.
 3. Run the script using the command:
 4. The script will organize the images into a folder named `DairyImages` and gather their information.
-5. The gathered information will be saved in a CSV file named `image_data2.csv`.
+5. The gathered information will be saved in a CSV file named `image_data.csv`.
 
 ## Code Explanation
 
