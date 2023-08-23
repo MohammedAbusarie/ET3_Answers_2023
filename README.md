@@ -1,6 +1,6 @@
 # ET3_Answers_2023 Problem 1 & 2
 
-# Image Dataset Management Script
+# Image Dataset Management Script (Problem 1)
 
 This script is designed to organize image files, gather their information, and create a CSV dataset containing relevant details about each image. It can be particularly useful for managing image datasets used in various projects.
 
